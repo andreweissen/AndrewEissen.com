@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "data": {
+    "contact": {
+      "aside": {
+        "header": "Contact me",
+        "subheader": "Connect with Me",
+        "canShowTable": true,
+        "summary": {
+          "paragraphs": [
+            "Connect with me! I can be reached via any of the email addresses or through the websites listed below and in the various tables to the right. Though I generally avoid the cultivation of too many online social media accounts, I am regularly active on LinkedIn and GitHub, and I check and respond to new messages on a regular basis."
+          ]
+        }
+      },
+      "article": {
+        "header": "Contact me",
+        "canShowTable": true,
+        "essaySections": [
+          {
+            "title": "Summary",
+            "paragraphs": [
+              "Though I have made an effort to minimize my online presence and generally only create accounts on sites to which I actively contribute, I can frequently be found on GitHub and LinkedIn. I respond actively to any messages sent to me via my email accounts listed in the tables on this page.",
+              "My GitHub page is actively updated and maintained, with all personal project repositories and academic code included and documented for ease of viewing. Everything I have ever coded, from the start of my burgeoning career as a front-end web developer to my computer science academic work to personal projects related to Wikia/Fandom, may be found on my GitHub page, including the code for this personal portfolio website as well as the previous versions.",
+              "My LinkedIn page is also updated on a regular basis as needed, with all academic work, certifications, skills and abilities, honors, and awards as related to my nascent career mentioned and discussed in detail. I check daily and respond quickly to all messages and emails sent to me via that platform.",
+              "As far as personal correspondence is concerned, I generally prefer to communicate by email. I can be reached by means of any of the main or alternate email addresses listed in the tables on this page, all of which are checked on a daily basis. I can also be contacted by phone, and I generally include my various numbers on the top of my resume."
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

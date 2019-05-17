@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "data": {
+    "experience": {
+      "aside": {
+        "header": "My Experience",
+        "subheader": "Volunteer and Extracurricular Work",
+        "canShowTable": false,
+        "summary": {
+          "paragraphs": [
+            "Though much of my time in college was spent in pursuit of high marks in academics, I concurrently applied my knowledge of front-end web development, computer science, and copy editing to a variety of ancillary projects while in residence at Grove City College and the University Of Maryland University College.",
+            "While studying Communication Studies, I volunteered as a copy editor and fact-checker for a variety of college publications, including the student newspaper, the college's prestigious law journal, and the poetry/creative arts magazine, among others. Additionally, as a first semester senior at GCC, I conducted ethnographic research in the community for the Communications Department and the Welcome to Grove City project, producing a findings report detailing the relationship between the student body and the residents of the town.",
+            "As a Computer Science student, I applied my knowledge of the MediaWiki framework and JavaScript/CSS to the Wikia/Fandom wiki network, among other such wiki projects. In this capacity, I continue to serve as a volunteer research and development consultant for the Wikia/Fandom Community Council and a moderator on the network's open source repository, the Fandom Open Source Library."
+          ]
+        }
+      },
+      "article": {
+        "header": "Experience",
+        "canShowTable": false,
+        "entries": [
+          {
+            "header": "Wikia, Inc.",
+            "subheader": "Community Councilor",
+            "date": "February 2017 – present",
+            "summary": "I have served as a Community Councilor since February 2017. In my capacity as a research and development consultant in close contact with company employees, I have applied my knowledge of the MediaWiki framework and scripting on the Wikia/Fandom network to the evaluation of new and upcoming products and features."
+          },
+          {
+            "header": "Wikia, Inc.",
+            "subheader": "Fandom Open Source Library Content Moderator",
+            "date": "November 2016 – present",
+            "summary": "I serve as a content moderator on the Open Source Library, a Wikia/Fandom meta wiki housing a collection of JavaScript userscripts and CSS stylesheets for use across the network. In this capacity, I am empowered to oversee, update, and delete any and all existing production code and documentation pages on the wiki."
+          },
+          {
+            "header": "Three for Ten Sports",
+            "subheader": "Senior Editor and Chief Tennis Analyst",
+            "date": "June 2014 – May 2015",
+            "summary": "Shortly after graduating from Grove City College, I agreed to contribute my copy editing and writing abilities to a friend's burgeoning sports news website, Three for Ten Sports. I served as the chief copy editor charged with editing other writers' copy and as the primary contributor to the Tennis beat."
+          },
+          {
+            "header": "Journal of Law and Public Policy",
+            "subheader": "Associate Style Editor",
+            "date": "October 2013 – May 2014",
+            "summary": "Selected by the editorial staff to work with the Journal of Law and Public Policy without even submitting an application, I assisted in the initial copy editing and fact-checking of legal/technical writing for the Journal."
+          },
+          {
+            "header": "Grove City College Collegian",
+            "subheader": "Section Copy Editor",
+            "date": "August 2013 – May 2014",
+            "summary": "I primarily contributed to the Collegian as its Life section copy editor, earning the paper's Green Eyeshade Award for Excellence in Journalism for my work in this capacity. Additionally, I volunteered to oversee other sections and often assisted with fact-checking when help was scarce."
+          },
+          {
+            "header": "Grove City College Communications Department",
+            "subheader": "Research Assistant/Intern",
+            "date": "August 2013 – December 2013",
+            "summary": "As an independent research intern in my final year at Grove City College, I conducted ethnographic, sociological research for the Welcome to Grove City project on the ways that students view town residents. I produced a 36 page findings report at the conclusion of the project."
+          },
+          {
+            "header": "Grove City College Quad",
+            "subheader": "Copy Editor",
+            "date": "September 2012 – May 2013",
+            "summary": "I served as a copy editor and fact-checker for the Quad poetry and creative arts magazine. Though my tenure with the Quad was short, I helped to standardize the editing process through the introduction of the AP Stylebook employed by the Collegian and other GCC publications."
+          }
+        ]
+      }
+    }
+  }
+}

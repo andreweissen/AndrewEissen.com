@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "about": {
+      "aside": {
+        "header": "Andrew Eissen",
+        "subheader": "Web developer - Copy editor",
+        "canShowTable": true,
+        "summary": {
+          "paragraphs": [
+            "I am a computer scientist, front-end web developer, writer, and copy editor with a pair of bachelor's degrees in Communication Studies and Computer Science. I have experience in the development of websites and the upkeep of existing applications. In my spare time, I contribute my technical abilities to various wiki projects hosted by the Wikimedia Foundation and Wikia, Inc."
+          ]
+        }
+      },
+      "article": {
+        "header": "About",
+        "canShowTable": false,
+        "essaySections": [
+          {
+            "title": "About me",
+            "paragraphs": [
+              "Hey there! I'm Andrew Eissen. I'm a burgeoning front-end web developer and copy editor from Maryland. I hold a Bachelor of Arts in Communication Studies from Grove City College and a Bachelor of Science in Computer Science from the University Of Maryland University College, among other nanodegrees related to web development. I have experience in the use of standard front-end languages and libraries to build new websites and maintain existing applications. I am also familiar with best practices related to the paradigms of responsive design and content portability, ensuring a quality experience for both mobile viewers and desktop contributors alike.",
+              "During my studies at my almae matres, I merited a number of academic honors and earned several ancillary awards. I graduated with Honors in Communication Studies from Grove City College, and graduated summa cum laude in Computer Science from the University Of Maryland University College. I made the respective Dean's Lists of both institutions multiple times for maintaining high academic marks across semesters. In addition to other such academic honors, I also won the Green Eyeshade Award for Excellence in Journalism during my time as a copy editor for the GCC Collegian.",
+              "In my spare time, I enjoy coding my own personal projects and learning new technologies and libraries. I have contributed to a variety of wiki projects for over a decade, applying both my knowledge of the disparate subject matters in question and my mastery of the MediaWiki framework and its derivatives. Outside of coding, I enjoy reading and writing fiction, playing and watching tennis, and practicing electric blues guitar."
+            ]
+          },
+          {
+            "title": "About this site",
+            "paragraphs": [
+              "This site was built with pure/vanilla ES6-compliant JavaScript, CSS₃, and dynamically generated HTML₅. Rather than employ a library like jQuery or KnockoutJS for prewritten utility functions, I decided to cut out an unessential import by handcoding all of the necessary helper code myself, allowing me to implement only what was needed for the site. This decreased loading speeds by permitting me to load only the bare bones basic external dependencies required.",
+              "I followed Google's \"mobile first\" design philosophy for this site, developing the site's appearance from the mobile perspective first before gradually enlarging the viewport to include desktop and HD monitor device widths. This recommended approach is in keeping with best practices for conventional responsive design and content portability design paradigms.",
+              "As the JavaScript application file dynamically builds the content of the page for each specific link or panel clicked, all browsers must have the \"JavaScript enabled\" settings option selected. Similarly, as this site makes use of CSS₃ animations, flexbox, and ES6-compliant JavaScript, support is only offered for the latest versions of the Chromium, Firefox, and Opera browsers. Internet Explorer and older legacy browsers are not supported and will likely encounter errors if used to view this site."
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

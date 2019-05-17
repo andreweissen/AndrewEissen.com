@@ -1,0 +1,64 @@
+{
+  "success": true,
+  "data": {
+    "expertise": {
+      "aside": {
+        "header": "My Expertise",
+        "subheader": "Skills and Abilities",
+        "canShowTable": false,
+        "summary": {
+          "paragraphs": [
+            "Over the course of my academic career at the University Of Maryland University College as a burgeoning computer scientist, I have come into contact with a multiplicity of programming languages, libraries, frameworks, and technologies. Of these, I have the greatest experience in the use of standard languages employed by front-end web developers, including JavaScript, CSS₃, HTML₅.",
+            "As my first language, JavaScript has long been my strongest skill. I first encountered it in my Udacity nanodegree programs and subsequently employed in many of my personal projects. Though I have greatest experience in the use of ES5 and jQuery due to the constraints imposed on developers by the MediaWiki ResourceLoader, I also have familiarity in the use of ES6 and libraries like Knockout, having used both in the development of websites for my own personal use.",
+            "I also have extensive experience in the use of CSS₃ and HTML₅. I am familiar with responsive design and content portability best practices, using a multiplicity of @media queries to develop quality mobile experiences in conjunction with desktop experiences for users of all devices and device widths. In addition to front-end languages, I also have familiarity with languages like Java, Lua, PHP, SQL, and others, having used these and others in the course of my personal coding projects and in my academic career at UMUC."
+          ]
+        }
+      },
+      "article": {
+        "header": "Expertise",
+        "canShowTable": false,
+        "entries": [
+          {
+            "header": "JavaScript",
+            "subheader": "ES5/6, jQuery, Three.js, Knockout.js, WebGL, React",
+            "date": "4 years",
+            "summary": "As the first legitimate programming language I studied in my career, JavaScript is my main language. In addition to being familiar with vanilla ES5/6 JavaScript, I also have experience in the use of standard front-end libraries like jQuery and Knockout."
+          },
+          {
+            "header": "Cascading Style Sheets",
+            "subheader": "CSS₃, Bootstrap, Sass",
+            "date": "4 years",
+            "summary": "I have experience in the use of CSS₃ to develop applications consistent with responsive design and content portability best practices. I have also made use of common frameworks like Bootstrap in the past in the development of personal websites."
+          },
+          {
+            "header": "Hypertext Markup Language",
+            "subheader": "HTML₅, XML",
+            "date": "4 years",
+            "summary": "I have had experience in creating websites using HTML since the early 2000s, though since pursuing a career in web development, I have expanded my knowledge to include the latest HTML₅ paradigm. I also have some experience developing XML for infoboxes on the Wikia network."
+          },
+          {
+            "header": "Java",
+            "subheader": "Pure Java, JFC/Swing, OpenGL",
+            "date": "2 years",
+            "summary": "As Java served as the main programming language of the Computer Science department at UMUC, I have an intermediate grasp of the language. Using Swing and OpenGL, I have employed the language in the development of GUI apps and graphical animations."
+          },
+          {
+            "header": "Other languages",
+            "subheader": "Lua, PHP, C++, MySQL, SQL, Python, C",
+            "summary": "Though not my main languages, I have some minor experience in the use of the languages listed above. I have used Lua in wiki templating, PHP/SQL in my senior computer science project, and C++/C in advanced computer science classes at UMUC."
+          },
+          {
+            "header": "Other technologies",
+            "subheader": "MediaWiki, Jasmine, ngrok, jinja2, webapp2",
+            "summary": "Though I have some experience in the use of the technologies listed above, MediaWiki is by far the framework with which I have the greatest experience. In addition to editing wikis for over twelve years, I have developed a multiplicity JS/Lua userscripts using its various APIs."
+          },
+          {
+            "header": "Miscellaneous",
+            "subheader": "Git/Git Bash/GitHub, GIMP, Adobe Premier/Audition",
+            "summary": "I use GitHub to store my code repositories and Git Bash to assist in that regard. Though not much of a designer, I am compentent in photo manipulation using GIMP, having used the open source software for well over a decade."
+          }
+        ]
+      }
+    }
+  }
+}

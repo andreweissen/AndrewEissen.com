@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "data": {
+    "awards": {
+      "aside": {
+        "header": "My Awards",
+        "subheader": "Awards and Academic Honors",
+        "canShowTable": false,
+        "summary": {
+          "paragraphs": [
+            "During my respective studies in high school and college at Grove City College and the University Of Maryland University College, I earned a number of academic awards and honors. Additionally, I earned a few extracurricular awards unrelated to my main academic career, such as the Collegian's Green Eyesahde Award for Excellence in Journalism.",
+            "As a Communication Studies student at Grove City College, I made the Dean's List twice and the Dean's List with Distinction once. Additionally, I graduated with Honors in Communication Studies. While at the University Of Maryland University College, I made the Dean's List six times and graduated Summa Cum Laude. In high school at Rockbridge Academy, I graduated Magna Cum Laude and earned the distinction of being a PSAT/NMSQT National Merit Commended Student."
+          ]
+        }
+      },
+      "article": {
+        "header": "Awards and Honors",
+        "canShowTable": false,
+        "entries": [
+          {
+            "header": "University Of Maryland University College",
+            "subheader": "Graduated Summa Cum Laude",
+            "date": "May 2019",
+            "summary": "Having maintained a grade point average of 4.0 for the duration of my studies at UMUC, I graduated summa cum laude from the institution."
+          },
+          {
+            "header": "UMUC Office of the Dean",
+            "subheader": "Dean's List",
+            "date": "Fall ‘16, Spring ‘17, Summer ‘17, Fall ‘17, Spring ‘18, & Fall ‘18 semesters",
+            "summary": "I made the UMUC Dean's List each semester for which I met the eligibility requirements for consideration."
+          },
+          {
+            "header": "Grove City College Office of the Dean",
+            "subheader": "Dean's List",
+            "date": "Spring 2013 & Spring 2014 semesters",
+            "summary": "I made the Dean's List the Spring semesters of both my junior and senior years at GCC."
+          },
+          {
+            "header": "Grove City College Office of the Dean",
+            "subheader": "Dean's List with Distinction",
+            "date": "Fall 2012 semester",
+            "summary": "During the first semester of my junior year at GCC, I merited inclusion on the Dean's List with Distinction."
+          },
+          {
+            "header": "Grove City College Collegian",
+            "subheader": "Green Eyeshade Award for Excellence in Journalism",
+            "date": "October 2013",
+            "summary": "For my work as Life section copy editor and general purpose fact-checker, I earned the Green Eyeshade Award from the Collegian staff."
+          },
+          {
+            "header": "College Board/National Merit Scholarship Program",
+            "subheader": "PSAT/NMSQT National Merit Commended Student",
+            "date": "May 2010",
+            "summary": "During my high school career, my high scores on the PSAT examination earned me the distinction of National Merit Commended Student."
+          },
+          {
+            "header": "Rockbridge Academy",
+            "subheader": "Graduated Magna Cum Laude",
+            "date": "May 2010",
+            "summary": "I graduated magna cum laude from high school for high academic marks."
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "success": true,
+  "data": {
+    "header": {
+      "image": {
+        "alt": "Logo",
+        "src": "logo.svg"
+      },
+      "name": "Andrew Eissen"
+    },
+    "home": {
+      "array": [
+        {
+          "name": "home",
+          "text": "Home",
+          "handler": "buildHome"
+        },
+        {
+          "name": "about",
+          "text": "About",
+          "handler": "buildDiptych",
+          "picture": {
+            "normal": "panel1.webp",
+            "mobile": "mobilepanel1.webp"
+          }
+        },
+        {
+          "name": "education",
+          "text": "Education",
+          "handler": "buildDiptych",
+          "picture": {
+            "normal": "panel2.webp",
+            "mobile": "mobilepanel2.webp"
+          }
+        },
+        {
+          "name": "experience",
+          "text": "Experience",
+          "handler": "buildDiptych",
+          "picture": {
+            "normal": "panel3.webp",
+            "mobile": "mobilepanel3.webp"
+          }
+        },
+        {
+          "name": "expertise",
+          "text": "Expertise",
+          "handler": "buildDiptych",
+          "picture": {
+            "normal": "panel4.webp",
+            "mobile": "mobilepanel4.webp"
+          }
+        },
+        {
+          "name": "awards",
+          "text": "Awards",
+          "handler": "buildDiptych",
+          "picture": {
+            "normal": "panel5.webp",
+            "mobile": "mobilepanel5.webp"
+          }
+        },
+        {
+          "name": "contact",
+          "text": "Contact",
+          "handler": "buildDiptych",
+          "picture": {
+            "normal": "panel6.webp",
+            "mobile": "mobilepanel6.webp"
+          }
+        }
+      ]
+    },
+    "details": {
+      "email": [
+        {
+          "title": "Personal",
+          "text": "andrew@andreweissen.com"
+        },
+        {
+          "title": "Webmaster",
+          "text": "webmaster@andreweissen.com"
+        },
+        {
+          "title": "Alternate",
+          "text": "andreweissen@outlook.com"
+        }
+      ],
+      "sites": [
+        {
+          "title": "Wikia",
+          "text": "https://dev.wikia.com/w/User:Eizen"
+        },
+        {
+          "title": "GitHub",
+          "text": "https://github.com/andreweissen"
+        },
+        {
+          "title": "LinkedIn",
+          "text": "https://linkedin.com/in/andreweissen"
+        },
+        {
+          "title": "Twitter",
+          "text": "https://twitter.com/andrew_eissen"
+        }
+      ]
+    },
+    "footer": {
+      "copyright": "Copyright © 2019 Andrew Eissen. All rights reserved.",
+      "meta": {
+        "summary": {
+          "title": "Andrew Eissen",
+          "text": "I am a computer scientist, front-end web developer, writer, and copy editor with a pair of degrees in Communication Studies and Computer Science. I have experience in the development of websites and the upkeep of existing web applications."
+        }
+      },
+      "connect": {
+        "array": [
+          {
+            "text": "GitHub",
+            "link": "https://www.github.com/andreweissen",
+            "description": {
+              "title": "View my GitHub repositories",
+              "text": "Browse repositories related to web development, recent college work, and personal coding projects"
+            }
+          },
+          {
+            "text": "LinkedIn",
+            "link": "https://www.linkedin.com/in/andreweissen",
+            "description": {
+              "title": "View my LinkedIn profile",
+              "text": "View my education and training as a writer, editor, front-end web developer, and computer scientist"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

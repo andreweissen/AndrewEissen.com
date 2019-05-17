@@ -1,0 +1,143 @@
+{
+  "success": true,
+  "data": {
+    "education": {
+      "aside": {
+        "header": "My Education",
+        "subheader": "Computer Science - Communications",
+        "canShowTable": false,
+        "summary": {
+          "paragraphs": [
+            "I have a pair of bachelor's degrees from accredited institutions, namely a Bachelor of Arts in Communication Studies and a Bachelor of Science in Computer Science. In addition to these, I also have a pair of so-called \"nanodegrees\" from the for-profit educational institution Udacity.com in introductory programming and front-end web development.",
+            "I earned a number of ancillary academic awards during my respective tenures at Grove City College and the University Of Maryland University College. I graduated with Honors in Communication Studies from the former and summa cum laude from the latter, in addition to making the Dean's List multiple times at both institutions."
+          ]
+        }
+      },
+      "article": {
+        "header": "Education",
+        "canShowTable": false,
+        "entries": [
+          {
+            "header": "University Of Maryland University College, Adelphi, MD",
+            "subheader": "Bachelor of Science in Computer Science",
+            "date": "October 2016 – May 2019",
+            "listing": [
+              {
+                "title": "Academic honors",
+                "array": [
+                  "Graduated Summa Cum Laude",
+                  "Dean's List in Fall ‘16, Spring ‘17, Summer ‘17, Fall ‘17, Spring ‘18, and Fall ‘18 semesters"
+                ]
+              },
+              {
+                "title": "Relevant courses",
+                "array": [
+                  "Pre-Calculus",
+                  "Algorithm Design",
+                  "Calculus I",
+                  "Discrete Mathematics",
+                  "Introductory Programming",
+                  "Calculus II",
+                  "Intermediate Programming",
+                  "Computer Architecture",
+                  "Data Structures",
+                  "Concurrent Programming",
+                  "Algorithm Design and Analysis",
+                  "Advanced Programming",
+                  "Computer Graphics",
+                  "Current Trends in Computer Science"
+                ]
+              }
+            ]
+          },
+          {
+            "header": "Udacity, Mountain View, CA",
+            "subheader": "Nanodegree in Front-End Web Design",
+            "date": "October 2015 – April 2016",
+            "listing": [
+              {
+                "title": "Relevant courses",
+                "array": [
+                  "JavaScript Basics",
+                  "Intro to jQuery",
+                  "Object-Oriented JavaScript",
+                  "HTML5 Canvas",
+                  "Website Performance Optimization",
+                  "Browser Rendering Optimization",
+                  "Intro to AJAX",
+                  "JavaScript Design Patterns",
+                  "JavaScript Testing"
+                ]
+              }
+            ]
+          },
+          {
+            "header": "Udacity, Mountain View, CA",
+            "subheader": "Nanodegree in Introductory Programming",
+            "date": "May 2015 – August 2015",
+            "listing": [
+              {
+                "title": "Relevant courses",
+                "array": [
+                  "Introduction to Computer Science",
+                  "How to Use Git and GitHub",
+                  "Intro to HTML and CSS",
+                  "Responsive Web Design Fundamentals",
+                  "Responsive Images"
+                ]
+              }
+            ]
+          },
+          {
+            "header": "Grove City College, Grove City, PA",
+            "subheader": "Bachelor of Arts in Communication Studies",
+            "date": "August 2010 – May 2014",
+            "listing": [
+              {
+                "title": "Academic honors",
+                "array": [
+                  "Graduated with Honors in Communication Studies",
+                  "Dean's List in Fall ‘12, Spring ‘13, and Spring ‘14 semesters"
+                ]
+              },
+              {
+                "title": "Relevant courses",
+                "array": [
+                  "Journalism",
+                  "Screenwriting",
+                  "Writing for the Media",
+                  "Principles of Media",
+                  "Persuasion Theory",
+                  "Theories of Communication",
+                  "Research Methods",
+                  "Media Law",
+                  "Rhetorical Criticism",
+                  "Public Relations",
+                  "Principles of Marketing",
+                  "Business Statistics",
+                  "Business Calculus",
+                  "Microeconomics",
+                  "Macroeconomics"
+                ]
+              }
+            ]
+          },
+          {
+            "header": "Rockbridge Academy, Millersville, MD",
+            "subheader": "High School Diploma",
+            "date": "August 2006 – May 2010",
+            "listing": [
+              {
+                "title": "Academic honors",
+                "array": [
+                  "Graduated Magna Cum Laude",
+                  "PSAT National Merit Commended Student"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
