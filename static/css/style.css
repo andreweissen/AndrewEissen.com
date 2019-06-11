@@ -556,6 +556,10 @@
     display: inline-block;
   }
 
+  .meta-li-title {
+    padding-right: 5px;
+  }
+
   .sitemap {
     width: 25%;
   }
@@ -571,6 +575,10 @@
 
   .connect-li {
     display: block;
+  }
+
+  .connect-li:first-of-type {
+    margin-right: 0;
   }
 }
 
@@ -892,7 +900,6 @@
   .meta-li-title {
     font-size: 10pt;
     padding-bottom: 0;
-    padding-right: 5px;
   }
 
   .connect {
